@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE GIFTI SYSTEM "http://www.nitrc.org/frs/download.php/115/gifti.dtd">
+<GIFTI Version="1.0"  NumberOfDataArrays="1">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[AnatomicalStructurePrimary]]></Name>
+         <Value><![CDATA[CortexLeft]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[encoding]]></Name>
+         <Value><![CDATA[XML_BASE64_GZIP]]></Value>
+      </MD>
+   </MetaData>
+   <LabelTable>
+      <Label Key="0" Red="0.592593" Green="1.000000" Blue="0.000000" Alpha="1.000000"><![CDATA[label-1]]></Label>
+      <Label Key="1" Red="1.000000" Green="0.518519" Blue="0.000000" Alpha="1.000000"><![CDATA[label-2]]></Label>
+      <Label Key="2" Red="0.000000" Green="0.703704" Blue="1.000000" Alpha="1.000000"><![CDATA[label-3]]></Label>
+      <Label Key="3" Red="1.000000" Green="0.000000" Blue="0.111111" Alpha="1.000000"><![CDATA[label-4]]></Label>
+      <Label Key="4" Red="0.000000" Green="0.666667" Blue="1.000000" Alpha="1.000000"><![CDATA[label-5]]></Label>
+      <Label Key="5" Red="0.000000" Green="1.000000" Blue="0.481481" Alpha="1.000000"><![CDATA[label-6]]></Label>
+      <Label Key="6" Red="1.000000" Green="0.259259" Blue="0.000000" Alpha="1.000000"><![CDATA[label-7]]></Label>
+      <Label Key="7" Red="0.000000" Green="0.851852" Blue="1.000000" Alpha="1.000000"><![CDATA[label-8]]></Label>
+      <Label Key="8" Red="1.000000" Green="0.222222" Blue="0.000000" Alpha="1.000000"><![CDATA[label-9]]></Label>
+      <Label Key="9" Red="0.000000" Green="1.000000" Blue="0.259259" Alpha="1.000000"><![CDATA[label-10]]></Label>
+      <Label Key="10" Red="0.740741" Green="1.000000" Blue="0.000000" Alpha="1.000000"><![CDATA[label-11]]></Label>
+      <Label Key="11" Red="0.000000" Green="0.111111" Blue="1.000000" Alpha="1.000000"><![CDATA[label-12]]></Label>
+      <Label Key="12" Red="1.000000" Green="1.000000" Blue="0.000000" Alpha="1.000000"><![CDATA[label-13]]></Label>
+      <Label Key="13" Red="0.444444" Green="1.000000" Blue="0.000000" Alpha="1.000000"><![CDATA[label-14]]></Label>
+      <Label Key="14" Red="1.000000" Green="0.000000" Blue="0.222222" Alpha="1.000000"><![CDATA[label-15]]></Label>
+      <Label Key="15" Red="0.000000" Green="1.000000" Blue="0.962963" Alpha="1.000000"><![CDATA[label-16]]></Label>
+      <Label Key="16" Red="0.666667" Green="1.000000" Blue="0.000000" Alpha="1.000000"><![CDATA[label-17]]></Label>
+      <Label Key="17" Red="1.000000" Green="0.000000" Blue="0.703704" Alpha="1.000000"><![CDATA[label-18]]></Label>
+      <Label Key="18" Red="0.000000" Green="1.000000" Blue="0.777778" Alpha="1.000000"><![CDATA[label-19]]></Label>
+      <Label Key="19" Red="1.000000" Green="0.000000" Blue="0.407407" Alpha="1.000000"><![CDATA[label-20]]></Label>
+      <Label Key="20" Red="0.000000" Green="1.000000" Blue="0.333333" Alpha="1.000000"><![CDATA[label-21]]></Label>
+      <Label Key="21" Red="1.000000" Green="0.407407" Blue="0.000000" Alpha="1.000000"><![CDATA[label-22]]></Label>
+      <Label Key="22" Red="0.000000" Green="1.000000" Blue="1.000000" Alpha="1.000000"><![CDATA[label-23]]></Label>
+      <Label Key="23" Red="0.111111" Green="1.000000" Blue="0.000000" Alpha="1.000000"><![CDATA[label-24]]></Label>
+      <Label Key="24" Red="0.000000" Green="1.000000" Blue="0.037037" Alpha="1.000000"><![CDATA[label-25]]></Label>
+      <Label Key="25" Red="0.148148" Green="1.000000" Blue="0.000000" Alpha="1.000000"><![CDATA[label-26]]></Label>
+      <Label Key="26" Red="0.888889" Green="1.000000" Blue="0.000000" Alpha="1.000000"><![CDATA[label-27]]></Label>
+      <Label Key="27" Red="1.000000" Green="0.592593" Blue="0.000000" Alpha="1.000000"><![CDATA[label-28]]></Label>
+      <Label Key="28" Red="1.000000" Green="0.740741" Blue="0.000000" Alpha="1.000000"><![CDATA[label-29]]></Label>
+      <Label Key="29" Red="0.000000" Green="0.629630" Blue="1.000000" Alpha="1.000000"><![CDATA[label-30]]></Label>
+      <Label Key="30" Red="0.925926" Green="0.000000" Blue="1.000000" Alpha="1.000000"><![CDATA[label-31]]></Label>
+      <Label Key="31" Red="0.222222" Green="1.000000" Blue="0.000000" Alpha="1.000000"><![CDATA[label-32]]></Label>
+      <Label Key="32" Red="0.000000" Green="0.259259" Blue="1.000000" Alpha="1.000000"><![CDATA[label-33]]></Label>
+      <Label Key="33" Red="0.000000" Green="1.000000" Blue="0.370370" Alpha="1.000000"><![CDATA[label-34]]></Label>
+      <Label Key="34" Red="1.000000" Green="0.000000" Blue="0.851852" Alpha="1.000000"><![CDATA[label-35]]></Label>
+      <Label Key="35" Red="0.000000" Green="0.333333" Blue="1.000000" Alpha="1.000000"><![CDATA[label-36]]></Label>
+      <Label Key="36" Red="0.851852" Green="0.000000" Blue="1.000000" Alpha="1.000000"><![CDATA[label-37]]></Label>
+      <Label Key="37" Red="0.666667" Green="0.000000" Blue="1.000000" Alpha="1.000000"><![CDATA[label-38]]></Label>
+      <Label Key="38" Red="1.000000" Green="0.000000" Blue="0.444444" Alpha="1.000000"><![CDATA[label-39]]></Label>
+      <Label Key="39" Red="0.888889" Green="0.000000" Blue="1.000000" Alpha="1.000000"><![CDATA[label-40]]></Label>
+      <Label Key="40" Red="0.962963" Green="0.000000" Blue="1.000000" Alpha="1.000000"><![CDATA[label-41]]></Label>
+      <Label Key="41" Red="0.962963" Green="1.000000" Blue="0.000000" Alpha="1.000000"><![CDATA[label-42]]></Label>
+      <Label Key="42" Red="0.777778" Green="0.000000" Blue="1.000000" Alpha="1.000000"><![CDATA[label-43]]></Label>
+      <Label Key="43" Red="0.000000" Green="0.814815" Blue="1.000000" Alpha="1.000000"><![CDATA[label-44]]></Label>
+      <Label Key="44" Red="0.000000" Green="1.000000" Blue="0.296296" Alpha="1.000000"><![CDATA[label-45]]></Label>
+      <Label Key="45" Red="0.000000" Green="1.000000" Blue="0.407407" Alpha="1.000000"><![CDATA[label-46]]></Label>
+      <Label Key="46" Red="0.000000" Green="1.000000" Blue="0.888889" Alpha="1.000000"><![CDATA[label-47]]></Label>
+      <Label Key="47" Red="1.000000" Green="0.000000" Blue="0.666667" Alpha="1.000000"><![CDATA[label-48]]></Label>
+      <Label Key="48" Red="0.370370" Green="1.000000" Blue="0.000000" Alpha="1.000000"><![CDATA[label-49]]></Label>
+      <Label Key="49" Red="1.000000" Green="0.000000" Blue="0.555556" Alpha="1.000000"><![CDATA[label-50]]></Label>
+      <Label Key="50" Red="1.000000" Green="0.000000" Blue="0.185185" Alpha="1.000000"><![CDATA[label-51]]></Label>
+      <Label Key="51" Red="1.000000" Green="0.814815" Blue="0.000000" Alpha="1.000000"><![CDATA[label-52]]></Label>
+      <Label Key="52" Red="0.185185" Green="1.000000" Blue="0.000000" Alpha="1.000000"><![CDATA[label-53]]></Label>
+      <Label Key="53" Red="1.000000" Green="0.037037" Blue="0.000000" Alpha="1.000000"><![CDATA[label-54]]></Label>
+      <Label Key="54" Red="0.000000" Green="0.407407" Blue="1.000000" Alpha="1.000000"><![CDATA[label-55]]></Label>
+      <Label Key="55" Red="1.000000" Green="0.000000" Blue="0.370370" Alpha="1.000000"><![CDATA[label-56]]></Label>
+      <Label Key="56" Red="0.703704" Green="0.000000" Blue="1.000000" Alpha="1.000000"><![CDATA[label-57]]></Label>
+      <Label Key="57" Red="0.111111" Green="0.000000" Blue="1.000000" Alpha="1.000000"><![CDATA[label-58]]></Label>
+      <Label Key="58" Red="1.000000" Green="0.000000" Blue="0.962963" Alpha="1.000000"><![CDATA[label-59]]></Label>
+      <Label Key="59" Red="1.000000" Green="0.666667" Blue="0.000000" Alpha="1.000000"><![CDATA[label-60]]></Label>
+      <Label Key="60" Red="1.000000" Green="0.000000" Blue="0.333333" Alpha="1.000000"><![CDATA[label-61]]></Label>
+      <Label Key="61" Red="1.000000" Green="0.555556" Blue="0.000000" Alpha="1.000000"><![CDATA[label-62]]></Label>
+      <Label Key="62" Red="0.000000" Green="1.000000" Blue="0.666667" Alpha="1.000000"><![CDATA[label-63]]></Label>
+      <Label Key="63" Red="0.444444" Green="0.000000" Blue="1.000000" Alpha="1.000000"><![CDATA[label-64]]></Label>
+      <Label Key="64" Red="0.000000" Green="1.000000" Blue="0.148148" Alpha="1.000000"><![CDATA[label-65]]></Label>
+      <Label Key="65" Red="0.000000" Green="0.777778" Blue="1.000000" Alpha="1.000000"><![CDATA[label-66]]></Label>
+      <Label Key="66" Red="0.000000" Green="0.222222" Blue="1.000000" Alpha="1.000000"><![CDATA[label-67]]></Label>
+      <Label Key="67" Red="0.000000" Green="1.000000" Blue="0.740741" Alpha="1.000000"><![CDATA[label-68]]></Label>
+      <Label Key="68" Red="0.333333" Green="0.000000" Blue="1.000000" Alpha="1.000000"><![CDATA[label-69]]></Label>
+      <Label Key="69" Red="1.000000" Green="0.148148" Blue="0.000000" Alpha="1.000000"><![CDATA[label-70]]></Label>
+      <Label Key="70" Red="0.000000" Green="1.000000" Blue="0.851852" Alpha="1.000000"><![CDATA[label-71]]></Label>
+      <Label Key="71" Red="0.407407" Green="1.000000" Blue="0.000000" Alpha="1.000000"><![CDATA[label-72]]></Label>
+      <Label Key="72" Red="0.000000" Green="1.000000" Blue="0.222222" Alpha="1.000000"><![CDATA[label-73]]></Label>
+      <Label Key="73" Red="0.000000" Green="1.000000" Blue="0.925926" Alpha="1.000000"><![CDATA[label-74]]></Label>
+      <Label Key="74" Red="1.000000" Green="0.000000" Blue="0.629630" Alpha="1.000000"><![CDATA[label-75]]></Label>
+      <Label Key="75" Red="0.000000" Green="1.000000" Blue="0.444444" Alpha="1.000000"><![CDATA[label-76]]></Label>
+      <Label Key="76" Red="1.000000" Green="0.000000" Blue="0.296296" Alpha="1.000000"><![CDATA[label-77]]></Label>
+      <Label Key="77" Red="1.000000" Green="0.000000" Blue="0.888889" Alpha="1.000000"><![CDATA[label-78]]></Label>
+      <Label Key="78" Red="0.296296" Green="1.000000" Blue="0.000000" Alpha="1.000000"><![CDATA[label-79]]></Label>
+      <Label Key="79" Red="1.000000" Green="0.000000" Blue="1.000000" Alpha="1.000000"><![CDATA[label-80]]></Label>
+      <Label Key="80" Red="0.037037" Green="0.000000" Blue="1.000000" Alpha="1.000000"><![CDATA[label-81]]></Label>
+      <Label Key="81" Red="1.000000" Green="0.000000" Blue="0.740741" Alpha="1.000000"><![CDATA[label-82]]></Label>
+      <Label Key="82" Red="0.703704" Green="1.000000" Blue="0.000000" Alpha="1.000000"><![CDATA[label-83]]></Label>
+      <Label Key="83" Red="0.074074" Green="0.000000" Blue="1.000000" Alpha="1.000000"><![CDATA[label-84]]></Label>
+      <Label Key="84" Red="1.000000" Green="0.962963" Blue="0.000000" Alpha="1.000000"><![CDATA[label-85]]></Label>
+      <Label Key="85" Red="0.000000" Green="0.481481" Blue="1.000000" Alpha="1.000000"><![CDATA[label-86]]></Label>
+      <Label Key="86" Red="1.000000" Green="0.481481" Blue="0.000000" Alpha="1.000000"><![CDATA[label-87]]></Label>
+      <Label Key="87" Red="0.740741" Green="0.000000" Blue="1.000000" Alpha="1.000000"><![CDATA[label-88]]></Label>
+      <Label Key="88" Red="0.000000" Green="0.000000" Blue="1.000000" Alpha="1.000000"><![CDATA[label-89]]></Label>
+      <Label Key="89" Red="0.000000" Green="1.000000" Blue="0.629630" Alpha="1.000000"><![CDATA[label-90]]></Label>
+      <Label Key="90" Red="0.000000" Green="1.000000" Blue="0.592593" Alpha="1.000000"><![CDATA[label-91]]></Label>
+      <Label Key="91" Red="1.000000" Green="0.000000" Blue="0.259259" Alpha="1.000000"><![CDATA[label-92]]></Label>
+      <Label Key="92" Red="0.148148" Green="0.000000" Blue="1.000000" Alpha="1.000000"><![CDATA[label-93]]></Label>
+      <Label Key="93" Red="0.185185" Green="0.000000" Blue="1.000000" Alpha="1.000000"><![CDATA[label-94]]></Label>
+      <Label Key="94" Red="0.000000" Green="1.000000" Blue="0.185185" Alpha="1.000000"><![CDATA[label-95]]></Label>
+      <Label Key="95" Red="1.000000" Green="0.703704" Blue="0.000000" Alpha="1.000000"><![CDATA[label-96]]></Label>
+      <Label Key="96" Red="1.000000" Green="0.296296" Blue="0.000000" Alpha="1.000000"><![CDATA[label-97]]></Label>
+      <Label Key="97" Red="0.407407" Green="0.000000" Blue="1.000000" Alpha="1.000000"><![CDATA[label-98]]></Label>
+      <Label Key="98" Red="0.814815" Green="1.000000" Blue="0.000000" Alpha="1.000000"><![CDATA[label-99]]></Label>
+      <Label Key="99" Red="0.000000" Green="0.444444" Blue="1.000000" Alpha="1.000000"><![CDATA[label-100]]></Label>
+      <Label Key="100" Red="0.000000" Green="1.000000" Blue="0.000000" Alpha="1.000000"><![CDATA[label-101]]></Label>
+      <Label Key="101" Red="0.555556" Green="0.000000" Blue="1.000000" Alpha="1.000000"><![CDATA[label-102]]></Label>
+      <Label Key="102" Red="1.000000" Green="0.185185" Blue="0.000000" Alpha="1.000000"><![CDATA[label-103]]></Label>
+      <Label Key="103" Red="1.000000" Green="0.444444" Blue="0.000000" Alpha="1.000000"><![CDATA[label-104]]></Label>
+      <Label Key="104" Red="0.000000" Green="0.888889" Blue="1.000000" Alpha="1.000000"><![CDATA[label-105]]></Label>
+      <Label Key="105" Red="0.037037" Green="1.000000" Blue="0.000000" Alpha="1.000000"><![CDATA[label-106]]></Label>
+      <Label Key="106" Red="0.629630" Green="0.000000" Blue="1.000000" Alpha="1.000000"><![CDATA[label-107]]></Label>
+      <Label Key="107" Red="1.000000" Green="0.000000" Blue="0.592593" Alpha="1.000000"><![CDATA[label-108]]></Label>
+      <Label Key="108" Red="1.000000" Green="0.777778" Blue="0.000000" Alpha="1.000000"><![CDATA[label-109]]></Label>
+      <Label Key="109" Red="1.000000" Green="0.000000" Blue="0.518519" Alpha="1.000000"><![CDATA[label-110]]></Label>
+      <Label Key="110" Red="0.000000" Green="1.000000" Blue="0.111111" Alpha="1.000000"><![CDATA[label-111]]></Label>
+      <Label Key="111" Red="0.592593" Green="0.000000" Blue="1.000000" Alpha="1.000000"><![CDATA[label-112]]></Label>
+      <Label Key="112" Red="0.000000" Green="0.185185" Blue="1.000000" Alpha="1.000000"><![CDATA[label-113]]></Label>
+      <Label Key="113" Red="0.296296" Green="0.000000" Blue="1.000000" Alpha="1.000000"><![CDATA[label-114]]></Label>
+      <Label Key="114" Red="0.000000" Green="0.518519" Blue="1.000000" Alpha="1.000000"><![CDATA[label-115]]></Label>
+      <Label Key="115" Red="0.000000" Green="0.592593" Blue="1.000000" Alpha="1.000000"><![CDATA[label-116]]></Label>
+      <Label Key="116" Red="1.000000" Green="0.851852" Blue="0.000000" Alpha="1.000000"><![CDATA[label-117]]></Label>
+      <Label Key="117" Red="0.000000" Green="0.296296" Blue="1.000000" Alpha="1.000000"><![CDATA[label-118]]></Label>
+      <Label Key="118" Red="1.000000" Green="0.888889" Blue="0.000000" Alpha="1.000000"><![CDATA[label-119]]></Label>
+      <Label Key="119" Red="1.000000" Green="0.000000" Blue="0.481481" Alpha="1.000000"><![CDATA[label-120]]></Label>
+      <Label Key="120" Red="1.000000" Green="0.000000" Blue="0.037037" Alpha="1.000000"><![CDATA[label-121]]></Label>
+      <Label Key="121" Red="0.000000" Green="0.555556" Blue="1.000000" Alpha="1.000000"><![CDATA[label-122]]></Label>
+      <Label Key="122" Red="0.000000" Green="0.370370" Blue="1.000000" Alpha="1.000000"><![CDATA[label-123]]></Label>
+      <Label Key="123" Red="1.000000" Green="0.925926" Blue="0.000000" Alpha="1.000000"><![CDATA[label-124]]></Label>
+      <Label Key="124" Red="1.000000" Green="0.111111" Blue="0.000000" Alpha="1.000000"><![CDATA[label-125]]></Label>
+      <Label Key="125" Red="1.000000" Green="0.074074" Blue="0.000000" Alpha="1.000000"><![CDATA[label-126]]></Label>
+      <Label Key="126" Red="0.555556" Green="1.000000" Blue="0.000000" Alpha="1.000000"><![CDATA[label-127]]></Label>
+      <Label Key="127" Red="0.000000" Green="0.037037" Blue="1.000000" Alpha="1.000000"><![CDATA[label-128]]></Label>
+      <Label Key="128" Red="1.000000" Green="0.333333" Blue="0.000000" Alpha="1.000000"><![CDATA[label-129]]></Label>
+      <Label Key="129" Red="0.000000" Green="0.148148" Blue="1.000000" Alpha="1.000000"><![CDATA[label-130]]></Label>
+      <Label Key="130" Red="0.000000" Green="1.000000" Blue="0.814815" Alpha="1.000000"><![CDATA[label-131]]></Label>
+      <Label Key="131" Red="1.000000" Green="0.629630" Blue="0.000000" Alpha="1.000000"><![CDATA[label-132]]></Label>
+      <Label Key="132" Red="0.259259" Green="0.000000" Blue="1.000000" Alpha="1.000000"><![CDATA[label-133]]></Label>
+      <Label Key="133" Red="0.333333" Green="1.000000" Blue="0.000000" Alpha="1.000000"><![CDATA[label-134]]></Label>
+      <Label Key="134" Red="1.000000" Green="0.000000" Blue="0.148148" Alpha="1.000000"><![CDATA[label-135]]></Label>
+      <Label Key="135" Red="0.370370" Green="0.000000" Blue="1.000000" Alpha="1.000000"><![CDATA[label-136]]></Label>
+      <Label Key="136" Red="0.518519" Green="1.000000" Blue="0.000000" Alpha="1.000000"><![CDATA[label-137]]></Label>
+      <Label Key="137" Red="0.222222" Green="0.000000" Blue="1.000000" Alpha="1.000000"><![CDATA[label-138]]></Label>
+      <Label Key="138" Red="0.000000" Green="0.740741" Blue="1.000000" Alpha="1.000000"><![CDATA[label-139]]></Label>
+      <Label Key="139" Red="0.851852" Green="1.000000" Blue="0.000000" Alpha="1.000000"><![CDATA[label-140]]></Label>
+      <Label Key="140" Red="0.814815" Green="0.000000" Blue="1.000000" Alpha="1.000000"><![CDATA[label-141]]></Label>
+      <Label Key="141" Red="0.000000" Green="1.000000" Blue="0.074074" Alpha="1.000000"><![CDATA[label-142]]></Label>
+      <Label Key="142" Red="0.481481" Green="1.000000" Blue="0.000000" Alpha="1.000000"><![CDATA[label-143]]></Label>
+      <Label Key="143" Red="0.074074" Green="1.000000" Blue="0.000000" Alpha="1.000000"><![CDATA[label-144]]></Label>
+      <Label Key="144" Red="0.518519" Green="0.000000" Blue="1.000000" Alpha="1.000000"><![CDATA[label-145]]></Label>
+      <Label Key="145" Red="0.000000" Green="1.000000" Blue="0.703704" Alpha="1.000000"><![CDATA[label-146]]></Label>
+      <Label Key="146" Red="0.000000" Green="1.000000" Blue="0.518519" Alpha="1.000000"><![CDATA[label-147]]></Label>
+      <Label Key="147" Red="1.000000" Green="0.000000" Blue="0.814815" Alpha="1.000000"><![CDATA[label-148]]></Label>
+      <Label Key="148" Red="0.259259" Green="1.000000" Blue="0.000000" Alpha="1.000000"><![CDATA[label-149]]></Label>
+      <Label Key="149" Red="0.925926" Green="1.000000" Blue="0.000000" Alpha="1.000000"><![CDATA[label-150]]></Label>
+      <Label Key="150" Red="1.000000" Green="0.000000" Blue="0.000000" Alpha="1.000000"><![CDATA[label-151]]></Label>
+      <Label Key="151" Red="1.000000" Green="0.000000" Blue="0.925926" Alpha="1.000000"><![CDATA[label-152]]></Label>
+      <Label Key="152" Red="1.000000" Green="0.000000" Blue="0.074074" Alpha="1.000000"><![CDATA[label-153]]></Label>
+      <Label Key="153" Red="0.000000" Green="0.074074" Blue="1.000000" Alpha="1.000000"><![CDATA[label-154]]></Label>
+      <Label Key="154" Red="1.000000" Green="0.370370" Blue="0.000000" Alpha="1.000000"><![CDATA[label-155]]></Label>
+      <Label Key="155" Red="0.481481" Green="0.000000" Blue="1.000000" Alpha="1.000000"><![CDATA[label-156]]></Label>
+      <Label Key="156" Red="0.000000" Green="0.962963" Blue="1.000000" Alpha="1.000000"><![CDATA[label-157]]></Label>
+      <Label Key="157" Red="0.000000" Green="1.000000" Blue="0.555556" Alpha="1.000000"><![CDATA[label-158]]></Label>
+      <Label Key="158" Red="0.000000" Green="0.925926" Blue="1.000000" Alpha="1.000000"><![CDATA[label-159]]></Label>
+      <Label Key="159" Red="0.629630" Green="1.000000" Blue="0.000000" Alpha="1.000000"><![CDATA[label-160]]></Label>
+      <Label Key="160" Red="1.000000" Green="0.000000" Blue="0.777778" Alpha="1.000000"><![CDATA[label-161]]></Label>
+      <Label Key="161" Red="0.777778" Green="1.000000" Blue="0.000000" Alpha="1.000000"><![CDATA[label-162]]></Label>
+   </LabelTable>
+   <DataArray  ArrayIndexingOrder="ColumnMajorOrder"
+               DataType="NIFTI_TYPE_INT32"
+               Dim0="32492"
+               Dimensionality="1"
+               Encoding="GZipBase64Binary"
+               Endian="LittleEndian"
+               ExternalFileName=""
+               ExternalFileOffset=""
+               Intent="NIFTI_INTENT_LABEL">
+      <MetaData>
+         <MD>
+            <Name><![CDATA[Name]]></Name>
+            <Value><![CDATA[col_1]]></Value>
+         </MD>
+      </MetaData>
+      <Data>eJztnfm7lVUZho9CiilFilmaCpUTEFqZmmUD5YA4YGWJWuKEM0qSOGSmhomAWmpqmaJ/aedc17eu671e1/C8wxq+HT/cP+he63nvZ39bztnr27K3Ly0tXbHMlmXOWubaZS5fZuMy65Z5dZkDy+xfZs8y2wt8UcGpAk5TsE5Aqd8Kt4Hc7sRHIK8CSJ6LIwoOC9itoNSv52tT8/r0em3W7iXt1qOXphPa7csdOln6nDo5l7D2+RWhdxe0T6lHjlY9kD7aDtYe0g65Hhp3aweNf6qD1l3r7+mu9da4a71j7hZvibvFmXu3cLb6rhB+j7O4/hbAy9PiinhaXa2eqKPF0+Io8dM6av2kbho/jZvGS+om9dI6SbyoE31/6+2zwmGAlA+nhQv1qeUyggfqEDy8HSTzDzvP7zW7x9zWMz3n/RfAYxYyRzKrxww0H52hzUbya2VrM3O52rwVdkfoneWRY82w7Nfu9drnuT63lp+n03W5c3d0DXKPwpPcOewaJV8ocBLjRANnGVklYLWBtUY05+ja68evIb9eXtevdG1q9FoD9PHo17qXtJO01ypFp9Z9kF78v+m59UH+nCp16dXjJNA/1SV2f3AOHWiP1P2/OXRY5eQ/mjvqP6J3zv2UiZGdT0kwmm/K0+rs7Yp4alw9PVFHievJgzqezPDwk7pRR+4TQ+um9UKcJG4eXhInxKv181Ryau3Cneh741MnWnqcvPT59+hajzk7eMzvNdt7LjLb61rzmaXPV3rNQz+fap0l+SzsaHPoDOnnlZH8tRXy+XmhJvu0TB5Fmomcb3pn9sjyyKmdUWuvZp/nHr5uXWZt7Bxduy51Lo88Lvm8vPVz6DcI2aHgRgeuqMAPMhwycIYS6Tm69NpprmGLa+fVC+l2PaFlL0sn3u16gDl0QnpYO6F9PK6PtI+0U6sumh5ol+smSj16dYj1uC5DqsOajv7XF5yRDmuMHXr6W9xbenN3rXdrZ+q9Zknu3cM3OKO+9HMuPVyvW/r8fbuYW4zWrtyz5Gfx9HBE/TSOVj+Jm9RxJLcTGFovjRN14x4xWjkhLlKnFi4ln/C+uJXLCWwup5VD7ozg/3n+6HPnPHOUWeFzid5zcp/htMxAP++qnSH5TG0uN5wVembzc0hN7omZPIo0s3RmOmJWq4xa+2vs89pTYy1/PJy5x9bwc3nk7L4GpbPAHzpwoYJLhGxRsFnJxQXOZKw3MLfrJ71uuetXu9sFhFq9Yt1q9boAwKNPrFeNTkgfyqh9pD08utA+yL3rWj08r0upQwyvDl49pP4ci7+1w+aZuoef21rvXu7cW+rcw5s6a3xbOtPf6bSuVl/6e2NtVw/HGDHH1p4lx0AvR9SPO9b2k3hxP43Xtxm9vbhPDK0P9fL0CVh8Dk14uVh8DiXQONTwONTQo7fD/+PsHnMXeZ7HrHD+VWtO7swtN8Mjn0KzwxmwR+76SG4uX5Kbu1+gyStlntE5b6Qca0aPvZp9Nddr1oXz9tQafi4fHu99P+dqI9cY+ImRyyOk7uVsEnKpgcsUxLrEWJTrV+p2vJdfr3cmFqHTOxFG6fPjCW0PTadcF2sPiqaDtQu9j2b1j/VB/ZEuqT/HY/fJrO4BjT/tgPw8yt3vs7hb/NGfp8g9S6mzxR39XaCWd0/nVs/znHx7ui6ap4djzWvey+8iwkhuF4G09EKdEK+Uz4UVXBCnlAvHyyXng3jEvLQeKRepQ8DTQzrbOp+fVWg+ezu32T3mWmeOPK/VrBZzas/Q5mvOKL1yebZX5iYwU3NW65W1yTHnEqeMQOv9LfdJ90jWo2uRdZbHU/ckNP9vSiB2/vcvI38x8IKRAwz0vsifFLxn4I9C9ifgfTnPO7BXwT4hqX7er8/RX5uL0M2z16cTi9Dp0whz7BPrIe304kSNLl49cn1ejGDtkvqZZPXnXWLuli7h5wTtkPu5afH/FPRHesR+1qG/C7Rwj/nnfk6jv7e08A4gv1+M5t3TudbzXMN30V1be47uWON6W/2eJPRwexKkpRfqJPXSOkl8JF57FT4al5RP7H0v6qL1eDIzu+Ti6SA5C6AO7zFaOex1nq85E/GY3WPuHGZa5rWa1WJO7RnWfOSsU5ONnqNKciXns0im9Mw3lyfNyuV5ZVlz9ikz6Dlyj70190jWo2uRdega5LHU2b43Tyt5qsADjPsN7CmwUcA/FDwm4JiC0jVKdXnbyKMGHhJQun41Xp/8Ncpfj16vT203S6+ngT4e/Vr3knaS9iq9Fkfog/RC//satY/mz4xRejwA+qe6BP9jhDl0oD2OJZhDh4ec/EdzR/1H9M65PzgxsvODCUbzTXlanb1dEU+Nq6cn6ihxfXhQx4cZHn5SN+rIfWJo3bReiJPEzcNL4oR4tX6eSk6tXbgTfT8c3v+39Hh46fPvy7Uec3bwmN9rtvdcZLbXteYzS+doXvPQczvrLMkZ4Whz6AzpeSeS/3aF/Nj5pOa8NpVHkWYi56nemT2yPHJqZ9Taq9nnuYevy53xo/cDkHWl+wu5xyX3XlD437d2pZGrDPzcyLURtie4SchOA7cqiHVBsTyHlutnfe3w1+KidvPs9f7EInR6P8Ic+8R6SDvdPFGji1ePXJ+bI1i78B7hz0qrP+8Sc7d0uXGCdsj92W/xfx/0R3rcGKHkHmjhHvOPOQfQn70tvAM531G9ezrXep5r+C66a2vP0R1rXG+r3y2EHm63gLT0Qp2kXloniY/Ea4fCR+OS8tkRAXXRetySmV1y8XRA5sc8+NlBK4cdzvOls3c4ze4xdw4zLfNazWoxp/YMaz5yFqnJRs85JbmS81MkU3omm8uTZuXyvLKsOTcoM24g9Nhbc49kPboWWYeuQR5L3aPQwM/IfmnkF0a2GeF/59BI3bz7jdRtxF69r1es06JcJ3pfQNvlZ8YuPzX0oN+xE7sXIOlA0XSgSP0pqfsaEn9pF+6Pdkl9b1Du/hLqjfbIuee65L6zqXSPTOId6yFx5pS+b6qmey/vXs4l7xGdNb4W11q+c3levT1bOY70PI7ih7iN8ryN+HoLLvQzIVKfH01IXa4hBJ/U52wkHhSpByX3uR+JA+KTcih5cJfS/JRLbj7icJVwNqU0u+Z8j9m1evfo27pny36terXoU7tHTf9a3vwzpprMqyOZ/LNrkizKNZEsJJPnBKRZ0hyeldpfyriysNe6v+U+j/XWtR5rco+X/v0V7N/R7/nm/29A7nPaLxl5zsCzRg4wvPtZunn3W9Trxu93zPV60U6xs+a5XacXCB59PpzQdvnzhLZDrgva58MImg4UTYdcj1SXmLu0S8wf6aPpQHsg7qUeiHusR8od8Zd6xzpIvQM579ruWmfEvZaz1buHc63neURfqetxT7nncT+93+he9N6/xukDpU/sOw9Tn0mQuFA0LpTcZzwkHqhT7rsUS585kXqkfErf6Yh6ILNjLsj3SiKfwdHM/8BpvnY2Mr9X7x5zF3neIs2Zc75XLv9uZpq5bUKax7/3mWZtE+Smvls2llXK9MjKfV9vLmcbsB/JqLm/5b6a6z3XldZoHgv/TD9Pzv85xRaArSDfdeJdEOQ7cpDnAP0OZAr/ni8pku9QatnN2kvSrVUvj060l+Y1iXb6PoBXH8t/Z15dvPqgXWJ9PDp4dZH04F28Oli7SDvQHp7+2g4a/9Cht7/W/V1nb6m7xfsygtUZ9bb41nD+HsAovoirxdfLFfXUunp4Shw1nlZHqZ/U0eKncZP4ad20XqibxsvihHhRp0sJtXxWyL0HjbmkaOGCeHi45DxQB6tHb4ee83vN7jG39cyW8zxmWc/cWszxyk/N8MqO5Xvl8myvzK2FTE3e1kSeNmurY84mQq+MHns1+6R7JOvRtci6sCZ1byH3WA/eUnC+gPMUbBSwP8MxBY8JSX1vTope3aS9pN169NJ0Qrt9s0MnS5/HJucS1j7/JPTugvYp9cjRqgfSR9vB2kPaIddD427toPFPddC6a/093bXeGnetd8zd4i1xtzhz7xbOVt8Vwu9cFtdvAXh5WlwRT6ur1RN1tHhaHCV+Wketn9RN46dx03hJ3aReWieJF3Wi50XePitI34vmzhFbuFCfWi4jeEjPCrwdJPPPd57fa3aPua1nes77DoDHLGSOZFaPGWg+OkObjeTXytZm5nK1eSvEzmh7Z3nkWDMs+7V7vfZ5rs+tzd0PQO4blNa0vp/Bzw42GDndyFeMrAM5auROA7sE7CkQO7d624FHDTxU4JGJHt0svUK3RwDQXhsmenZC+pR6bUjQo5OkT6qTZ5+WXWJ9Ul2kfVr34F0sPd5k9OqR68B7cOcYrfxDh5I/4iz1/2TC4v5IBfeY/ycJanlrnN/MeHp476rgjPpqnHO+tZ9fqa+3q8RT4prybPF8op6ejlI/xDHm18pthfB+JebV06303ir4hPeUtZ2Q93yx97q1nGr63DtR26Xkcy/D6pDz4C58dowaDqeDs2Mevebf6zRbMxed3aNv654t5y3SnNqvCY/s1LmkNTt19snPa615R0kWxZKXOh/2zOJ5pTPj0tm1R0bN/S33SffUWIusszweu3dxlP1zAL23wb/PA+GZDB8buE9J7uz81Qx/UHJXgbsZdxgo3fNIdXtFyEEFf3Og9FrLdde+XrSvz78WkP53NJde0m69eyF9pL16dpL0QTvFutyh7PK7il2QPrwDRdIhhmePUpeYP9on5Z/qo/Uv9ZD8bJO6c2p0kP587uUe+1k6unvMWeqtddZ6z825p29r1xbPa8qxhefLjNEcuV8MD79abi83dkOdSm4lp/A+tIZTyqvkwvH0iTlJXGJeWg/EBfGgeLlo51sdqId2vtfzoJ3tMb/H3IMd5racebDhPMus0eZoZ/Bzw1y2NL90RqnJ1pyB1sjMnRtL8l4heTxTmhPg59s9c3ru1+5tsUeyHl3rsSZ3vyF1PyJ3T6ZE7PvmY/xbwX8MvCYk1e8A41kjzxl4yUDsmhzvVafXZxOL0OmzCKP0+fuEtoemU66LtQdF08HaZaVDeF9m9Y/1Qf2RLuFnBO8QOwuxugc0/rRD7mddzj/VQ+Ju8Ud+VpfcA1Jnizv6e0Yt757OrZ7nOfn2dF00Tw/Hmte8l9/rhJHcXgdp6YU6IV4pn4MVXBCnlAvHyyXng3jEvLQeKRepQ8DTQzrbOp+fS2g+1zm32T3mWmeOPK/VrBZzas/Q5iNnhJps9PxRkis510QypWeluTxp1muOOa84ZQRa72+5T7pHsh5di6yzPM7P8lP/3gPJc2+5r7EC+v4hcC2ItZu1l7SbtddHGTw7SXpZOuX6ULw6/RpA2wft4tUH6YL20fbw6IL2QPpoO1h6SP1LPbT+2g5a/1QHrbvGf67uFu+Yu8Ubdbc6r3ArweL7G4BRfBFXD1+rK+ppdbV4ShwtnlpHqZ/WUeOncdP4Sd20XlI3iZfFSeJFnW7PYPXJOe0ktPTZCdDCBfEILrU8UIedlRx6zu81u8fc1jNbzvOadRuAdU7tGUg+OkObjeRrc0vZ2sxcrjYvlanNiuV5ZWkzbiL03N9in3SPZD26FlkX1mxPgDyeeszCngKx/+8V4e4CdxG0f2/WCrl7Gt69Sp04ll65brleuyp3svaSduLfR+PdpVanUo8Yc+gi+e6gXcYe3l20HXr12E0IHTTuPfx3J5iD/xzdU869vO+Z0Pj2cL4nQU1fT0/KCK6IZ8lV4/l7Z7+Sp8aPMoof94qh8cr5eXkFvNw8nbReEqcWPtzpToLWw8vnTobWQ+tyeKKnh7fDnOb3mh2bW/OaH3aceaSA57zSrIB1FjrniGGOdsbRCvlHSDbFKzv3nQrazFJuwDuzZ55XlkdOz/3avZp9XuvXgWvXRZCsiT22rvBYDc4q8DUB5xg418hGgA1GrN817/198yN1G7FX7+sV62Tp49HJ6zpZ+3yDoOnxJYK1C/1zRNuBI/HnSDqsJcT+XNT6l7rk/NEuayPk/ozXuMd6oO6pHjFvxP9cpXdA403JeY/s3su7l/OIz/Novq1d5+DZ0nGU59HL7w3CKG5vJKjhdY7RCfVaDTrR94YaF8RrNSHlk3vPKvWIOa3OQF2Q99AajzcKDtQFfS9fy2F1RYee8z1n1+jdo6/nzJbzPGZ59WrRpzTj7AKW/FJ2KV+bWcq3ZsZyrXk805pF88L5rzZn1YQl42yHDMt+7V7NPukeyfpVxmvAKd1faE3q3oD1/gP6ewFFcm8lMIdui9hL0ynXy7vP1xN4dsl18uyT6hLD2iXWx6OLpINXF6THeYN34D24ewwvd88O65l/yj3WxeJu9V9PkHgHerlT79bOGu/1S32dF9m3t+uZExLHlp5nFujtWPILtPZDvVJ+o3hxN9Tpq4zeTtwn5adx4U5WF4rVZ3QPiYPVw2O+xeF841zr7EDL2T3mLvK8VrMsczYTUvkXK2dszmDNz2VTQvZbBI/czSwzlS/Jy2UGeuZ5ZY2Q0WOvZl/N9Zp1WyZia7ZECI/HHqtJ7u/Wud+BpwQ8rWB/hlF6Sfvtm2jdS9Mp121fBqRTr+vEO+V6pHqNdn2eEvagfRahx77J/T5Grw7aHtzf0mPO/iO5o/6PT8zB+/EErbxzztQ75Wl19vZFPLXOnq5ST9T1iYmenjHXJxJYHbV+wTHlJXX09kO8UEfv583LrefzlfLq6UO99k6sOHzMaOmyl8A9Wrp4eng8HzEH1KPn/JqzU/Ofmag995kENWamZllnaudJZ6ZmIXMks2Jz0BnInOcntPmpGc8ztNkBnueVXcr1zhw5r0eONcOy33uvZs+BApb16FpkXWlNa/4H0WHKfQ==</Data>
+   </DataArray>
+</GIFTI>

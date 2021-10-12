@@ -1,0 +1,29 @@
+{
+  "Authors": [
+    "N. Tzourio-Mazoyer",
+    "B. Landeau; D. Papathanassiou",
+    "F. Crivello; O. Etard",
+    "N. Delcroix",
+    "Bernard Mazoyer", 
+    "M. Joliot"
+  ],
+  "BIDSVersion": "1.1.0",
+  "Curators": [
+    "King M"
+  ],
+  "Identifier": "AAL",
+  "Maps": ["AAL"],
+  "Type": [
+  	"label"
+  ],
+  "MapDesc": [
+    "Automated Anatomical Labeling of activations in SPM using a Macroscopic Anatomical Parcellation of the MNI MRI single-subject brain"
+  ],
+  "License": "See LICENSE file",
+  "Name": "Single-subject network parcellation",
+  "ShortDesc": "Single-subject network partcellation: Tzourio-Mazoyer et al. (2002)",   "LongDesc": "Automated Anatomical Labeling of activations in SPM using a Macroscopic Anatomical Parcellation of the MNI MRI single-subject brain.",
+  "ReferencesAndLinks": [
+    "N. Tzourio-Mazoyer; B. Landeau; D. Papathanassiou; F. Crivello; O. Etard; N. Delcroix; Bernard Mazoyer & M. Joliot (2002). Automated Anatomical Labeling of activations in SPM using a Macroscopic Anatomical Parcellation of the MNI MRI single-subject brain. NeuroImage. 15 (1): 273–289"
+  ],
+  "res": {} 
+}

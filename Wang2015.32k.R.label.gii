@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GIFTI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="http://brainvis.wustl.edu/caret6/xml_schemas/GIFTI_Caret.xsd"
+       Version="1"
+       NumberOfDataArrays="1">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[AnatomicalStructurePrimary]]></Name>
+         <Value><![CDATA[CortexRight]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[ParentProvenance]]></Name>
+         <Value><![CDATA[/Users/mahdiyarshahbazi/Documents/MATLAB/toolboxes/surfAnalysis/standard_mesh/resample_fsaverage/fs_LR-deformed_to-fsaverage.R.sphere.32k_fs_LR.surf.gii:
+wb_command -surface-sphere-project-unproject ../R.sphere.32k_fs_LR.surf.gii ../fs_R/fs_R-to-fs_LR_fsaverage.R_LR.spherical_std.164k_fs_R.surf.gii ../fs_R/fsaverage.R.sphere.164k_fs_R.surf.gii fs_LR-deformed-to-fsaverage.R.sphere.32k_fs_LR.surf.gii
+
+/Users/mahdiyarshahbazi/Documents/MATLAB/toolboxes/surfAnalysis/standard_mesh/resample_fsaverage/fs_LR-deformed_to-fsaverage.R.sphere.32k_fs_LR.surf.gii:
+wb_command -surface-sphere-project-unproject ../R.sphere.32k_fs_LR.surf.gii ../fs_R/fs_R-to-fs_LR_fsaverage.R_LR.spherical_std.164k_fs_R.surf.gii ../fs_R/fsaverage.R.sphere.164k_fs_R.surf.gii fs_LR-deformed-to-fsaverage.R.sphere.32k_fs_LR.surf.gii
+
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[ProgramProvenance]]></Name>
+         <Value><![CDATA[Connectome Workbench
+Type: Command Line Application
+Version: 1.4.2
+Qt Compiled Version: 5.7.0
+Qt Runtime Version: 5.7.0
+Commit: b527c79e526a558637f37c202af18c78cd98fa22
+Commit Date: 2021-02-11 13:49:38 -0600
+Compiled with OpenMP: YES
+Compiler: clang++ (/usr/local/clang/4.0.0/bin)
+Compiler Version: 4.0.0
+Compiled Debug: NO
+Operating System: Apple OSX
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Provenance]]></Name>
+         <Value><![CDATA[/Applications/workbench/bin_macosx64/../macosx64_apps/wb_command.app/Contents/MacOS/wb_command -label-resample '/Volumes/Diedrichsen_data$/data/SequenceAndChord/OnlinePlanning/op2/surfaceFreesurfer/fsaverage/surf/rh.wang2015.label.gii' /Users/mahdiyarshahbazi/Documents/MATLAB/toolboxes/surfAnalysis/standard_mesh/fs_R/fsaverage.R.sphere.164k_fs_R.surf.gii /Users/mahdiyarshahbazi/Documents/MATLAB/toolboxes/surfAnalysis/standard_mesh/resample_fsaverage/fs_LR-deformed_to-fsaverage.R.sphere.32k_fs_LR.surf.gii ADAP_BARY_AREA Wang2015.32k.R.label.gii -area-surfs /Users/mahdiyarshahbazi/Documents/MATLAB/toolboxes/surfAnalysis/standard_mesh/fs_R/fsaverage.R.sphere.164k_fs_R.surf.gii /Users/mahdiyarshahbazi/Documents/MATLAB/toolboxes/surfAnalysis/standard_mesh/resample_fsaverage/fs_LR-deformed_to-fsaverage.R.sphere.32k_fs_LR.surf.gii]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[WorkingDirectory]]></Name>
+         <Value><![CDATA[/Users/mahdiyarshahbazi/Documents/GitHub/OnlinePlanning/op2]]></Value>
+      </MD>
+   </MetaData>
+   <LabelTable>
+      <Label Key="0" Red="0" Green="0" Blue="0" Alpha="0"><![CDATA[]]></Label>
+      <Label Key="1" Red="0.615385" Green="0" Blue="1" Alpha="1"><![CDATA[V1v]]></Label>
+      <Label Key="2" Red="0.615385" Green="1" Blue="0" Alpha="1"><![CDATA[V1d]]></Label>
+      <Label Key="3" Red="0" Green="1" Blue="0.307692" Alpha="1"><![CDATA[V2v]]></Label>
+      <Label Key="4" Red="0.384615" Green="0" Blue="1" Alpha="1"><![CDATA[V2d]]></Label>
+      <Label Key="5" Red="0.384615" Green="1" Blue="0" Alpha="1"><![CDATA[V3v]]></Label>
+      <Label Key="6" Red="1" Green="0" Blue="0.461538" Alpha="1"><![CDATA[V3d]]></Label>
+      <Label Key="7" Red="1" Green="0" Blue="0.230769" Alpha="1"><![CDATA[hV4]]></Label>
+      <Label Key="8" Red="0" Green="1" Blue="1" Alpha="1"><![CDATA[VO1]]></Label>
+      <Label Key="9" Red="0" Green="1" Blue="0.538462" Alpha="1"><![CDATA[VO2]]></Label>
+      <Label Key="10" Red="0.846154" Green="1" Blue="0" Alpha="1"><![CDATA[PHC1]]></Label>
+      <Label Key="11" Red="0.153846" Green="0" Blue="1" Alpha="1"><![CDATA[PHC2]]></Label>
+      <Label Key="12" Red="1" Green="0" Blue="0" Alpha="1"><![CDATA[TO2]]></Label>
+      <Label Key="13" Red="0" Green="0.538462" Blue="1" Alpha="1"><![CDATA[TO1]]></Label>
+      <Label Key="14" Red="1" Green="0" Blue="0.923077" Alpha="1"><![CDATA[LO2]]></Label>
+      <Label Key="15" Red="0" Green="1" Blue="0.076923" Alpha="1"><![CDATA[LO1]]></Label>
+      <Label Key="16" Red="1" Green="0" Blue="0.692308" Alpha="1"><![CDATA[V3B]]></Label>
+      <Label Key="17" Red="0.846154" Green="0" Blue="1" Alpha="1"><![CDATA[V3A]]></Label>
+      <Label Key="18" Red="0.153846" Green="1" Blue="0" Alpha="1"><![CDATA[IPS0]]></Label>
+      <Label Key="19" Red="1" Green="0.692308" Blue="0" Alpha="1"><![CDATA[IPS1]]></Label>
+      <Label Key="20" Red="0" Green="0.307692" Blue="1" Alpha="1"><![CDATA[IPS2]]></Label>
+      <Label Key="21" Red="0" Green="1" Blue="0.769231" Alpha="1"><![CDATA[IPS3]]></Label>
+      <Label Key="22" Red="0" Green="0.769231" Blue="1" Alpha="1"><![CDATA[IPS4]]></Label>
+      <Label Key="23" Red="1" Green="0.923077" Blue="0" Alpha="1"><![CDATA[IPS5]]></Label>
+      <Label Key="24" Red="1" Green="0.230769" Blue="0" Alpha="1"><![CDATA[SPL1]]></Label>
+      <Label Key="25" Red="0" Green="0.076923" Blue="1" Alpha="1"><![CDATA[FEF]]></Label>
+   </LabelTable>
+<DataArray Intent="NIFTI_INTENT_LABEL"
+           DataType="NIFTI_TYPE_INT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[labels]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3QFz0zYYBuBAN6DpYOtgUP7/H+V6l9wJzZIlW7Jl93nuvttKE+l9kwJN5K2Xy++eo4+vF87ibM/l08QAAAAAAADn8DTx784DAAAAAAAAAAAAAAAAAAAAAGBsP28zQoatcoR77dE93n/rDD8v2z/m8d4AAAAAAAAAAAAAAAAAAAAAAAAAAACM77+K+TYzXzPzb2aeM3MUuQ5rJvWYpR7nuefodUqf796PyV7djtSr5vfn1p1yv9/XdHq5Ta8+tc/P0j4v0YzQpbRDnP1IPXLZt+7QI/8aLfKPlr3mayfMe/cS/HOL3HelmS8TmcPscf6wU4vMsTjz3deJ227laN8vAgAA8LaFr7v/mZn49fcRxO+FvIVuU+/zHEnp+21HUtLnSL1q+oze6Uw9Sjrc3/cdUWn2UZ+LIz/+c3njM4JR1JxrjKLkzG4kc+fVI+WVs52SaxT2dLRsU+fBcs2f929t7rqvkbLcr8Vqdb3Zkhy9rn0rzdD7Grzc/nvtXXKN3vfG+5buuXbf2usR1+5Zs8/a/Wr2Svlxm7X7TPW4f7xmj+/RLNVz/ZJ1l6w9t26LrK0f15bZ1mZao+fffxxf7izg74XzJTGfb7OlrbvF07vb1NlNy26pXj27pc6ktuj0On8N2qn2a2+PPqlOXxp2ad1naZdUh5oeLfvU9jhah6keS7Pv/RyEWXNKcvfM3kqcu6UeeUO9MgMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbT0l5iyul997XYO5f/yYGQAAAAAAOJv4ffPa+5Ter/Y+NbcvPdsoud3cbXKfT52ztJ7nYD4E80dm3hfOu8J5qJw/JyY8gwnPbPYS/rzkmp+Z/iEx958XHD5fe1vbKZ5Rer1q0SeckazpMWKfNT2O0iX35/EReuTyhzOi0uxHzz+aM+ceTep7uBHz5r7nPFLWkYyesXe+j7ep9S6Rq1W2j4kpyZXK1iNT+FosfK0WZgmnZaa5PHGmh4JMe2cJ8/TKMvXaOpdlqwy5HC32X/M41PhUsHfN/jX7luzdY99WfXv3jPcs3avFfq32mXsst9inZP2pPUrWf/jfqsvWTq1fu/bSdR8z606tObXu3Hpza6bWe8ysl8o29Xd8fB186Vot1gnXmLomvyZH7tr+x5n7L7nv3P1S+9Xep8dtU/8tRHybqdvlPh9/7hp9burX41+7zsyUuT+LclN61lF6dlLyfl/N++Yj9Cp5X6S21+idUuccrTpt+XWX+/pb26e0R02XJc9PyfnTGXq0yL93h7hHz+y98t87HDX7pTL35WC5Y3tnXqvV9xt7O1JWAAAAaOXM/0+ut9DrLM7YBwAAAAAAAAAAAAAAAAAAAAAAAAAAAACghV9BinFj</Data>
+</DataArray>
+</GIFTI>

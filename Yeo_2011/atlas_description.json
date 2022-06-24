@@ -11,8 +11,8 @@
   "Identifier": "Yeo",
   "Maps": ["atl-Yeo_7Networks","atl-Yeo_17Networks"],
   "Type": [
-  	"dseg",
-  	"dseg"
+  	"",
+  	""
   ],
   "MapDesc": [
     "Assignment of cortical voxels to the 7 network parcellation",

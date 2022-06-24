@@ -1,0 +1,28 @@
+{
+  "Authors": [
+    "Yeo, B T",
+    "Krienen, F.",
+    "Buckner, R.L."
+  ],
+  "BIDSVersion": "1.1.0",
+  "Curators": [
+    "Diedrichsen J"
+  ],
+  "Identifier": "Yeo",
+  "Maps": ["atl-Yeo_2011","atl-Yeo_2011"],
+  "Type": [
+  	"dseg",
+  	"dseg"
+  ],
+  "MapDesc": [
+    "Assignment of cortical voxels to the 7 network parcellation",
+    "Assignment of cortical voxels to the 17 network parcellation"
+  ],
+  "License": "See LICENSE file",
+  "Name": "Resting state network parcellation",
+  "ShortDesc": "Resting state network partcellation: Yeo et al. (2011)",   "LongDesc": "Yeo et al. (2011) presented a comprehensive functional atlas of the human cerebral cortex. Parcellation is based on the data from 1000 subjects. ",
+  "ReferencesAndLinks": [
+    "Yeo, B. T., Krienen, F. M., Sepulcre, J., Sabuncu, M. R., Lashkari, D., Hollinshead, M., ... & Buckner, R. L. (2011). The organization of the human cerebral cortex estimated by intrinsic functional connectivity. Journal of neurophysiology."
+  ],
+  "res": {} 
+}
